@@ -15,6 +15,11 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+  - Name: vCard
+    URL: https://billmote.github.io/links/BillMote.vcf
+    Color: '#3b5998'
+    Icon-Class: fa-solid fa-address-card
+
     # FACEBOOK
   # - Name: Facebook
   #   URL: https://www.facebook.com
@@ -54,7 +59,7 @@ links:
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
+    Username: bmote
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 

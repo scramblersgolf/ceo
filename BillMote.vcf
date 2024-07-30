@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Mote;Bill;;;
+FN:Bill Mote
+TEL;CELL;PREF:513-404-4182
+TEL;VOICE:561-221-2991
+EMAIL;PREF;HOME:bill.mote@gmail.com
+EMAIL:bill@scramblersgolf.com
+ADR;HOME:;;1027 SW 3rd St;Boca Raton;FL;33486;USA
+END:VCARD
