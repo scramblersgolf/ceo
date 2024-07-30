@@ -15,15 +15,24 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+    # CONTACT
   - Name: vCard
     URL: https://billmote.github.io/links/BillMote.vcf
     Color: '#3b5998'
     Icon-Class: fa-solid fa-address-card
 
+    # SCRAMBLERS
   - Name: Scramblers
     URL: https://www.scramblersgolf.com
     Color: '#DD2A7B'
     Icon-Class: fa-solid fa-globe
+
+    # MAPS
+  - Name: Locations
+    URL: https://www.google.com/maps/d/edit?mid=1_Fhx-03BYNHa2xZDvdNvQO7Q_cUs-kg&usp=sharing
+    Icon-Class: fa-solid fa-golf-ball-tee
+    Color: '#05CC46'
+    Text_Color: '#ffffff'
 
     # EMAIL
   - Name: Scramblers
@@ -42,13 +51,6 @@ links:
     URL: 'mailto:bill.mote@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
-    Text_Color: '#ffffff'
-
-    # MAPS
-  - Name: Locations
-    URL: https://www.google.com/maps/d/edit?mid=1_Fhx-03BYNHa2xZDvdNvQO7Q_cUs-kg&usp=sharing
-    Icon-Class: fa-solid fa-golf-ball-tee
-    Color: '#05CC46'
     Text_Color: '#ffffff'
 
     # LINKEDIN
