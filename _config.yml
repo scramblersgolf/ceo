@@ -2,7 +2,7 @@
 name: William "Bill" Mote aka The Beard
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy! I'm Bill Mote, a life long tech nerd and golfer.
+tagline: Veteran, Android Engineer, Tech Evangelist, Dad, Husband, 🐾🍻🌊🏖️🚤👾⛳👟🍔🔫🇺🇲✈️
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://billmote.github.io/links/me.jpg
@@ -19,6 +19,37 @@ links:
     URL: https://billmote.github.io/links/BillMote.vcf
     Color: '#3b5998'
     Icon-Class: fa-solid fa-address-card
+
+  - Name: Scramblers
+    URL: https://www.scramblersgolf.com
+    Color: '#DD2A7B'
+    Icon-Class: fa-solid fa-globe
+
+    # EMAIL
+  - Name: @scramblers
+    URL: 'mailto:bill@scramblersgolf.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+  - Name: @downrangegolfllc
+    URL: 'mailto:bill@downrangegolfllc.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+  - Name: @gmail
+    URL: 'mailto:bill.mote@gmail.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: bmote
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
 
     # FACEBOOK
   # - Name: Facebook
@@ -56,13 +87,6 @@ links:
   #   Color: '#f1c40f'
   #   Icon-Class: fas fa-hand-paper -mt-0.5
     
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: bmote
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
     # YOUTUBE
   # - Name: YouTube
   #   URL: https://www.youtube.com/channel
@@ -84,25 +108,6 @@ links:
   #   Icon-Class: fa-brands fa-wordpress-simple
   #   Color: '#0073AA'
   #   Text_Color: '#ffffff'
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:bill@scramblersgolf.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-  - Name: Email
-    URL: 'mailto:bill@downrangegolfllc.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-  - Name: Email
-    URL: 'mailto:bill.mote@gmail.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
 
   #   # Drupal
   # - Name: Drupal
