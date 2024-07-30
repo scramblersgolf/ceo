@@ -26,19 +26,19 @@ links:
     Icon-Class: fa-solid fa-globe
 
     # EMAIL
-  - Name: @scramblers
+  - Name: Scramblers
     URL: 'mailto:bill@scramblersgolf.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-  - Name: @downrangegolfllc
+  - Name: Downrange Golf
     URL: 'mailto:bill@downrangegolfllc.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-  - Name: @gmail
+  - Name: Gmail
     URL: 'mailto:bill.mote@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
