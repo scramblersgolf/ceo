@@ -44,6 +44,13 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
+    # MAPS
+  - Name: Locations
+    URL: https://www.google.com/maps/d/edit?mid=1_Fhx-03BYNHa2xZDvdNvQO7Q_cUs-kg&usp=sharing
+    Icon-Class: fa-solid fa-golf-ball-tee
+    Color: '#05CC46'
+    Text_Color: '#ffffff'
+
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
