@@ -1,14 +1,14 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: William "Bill" Mote aka The Beard
+name: Shawn Garrison
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Veteran, Android Engineer, Tech Evangelist, Dad, Husband, 🐾🍻🌊🏖️🚤👾⛳👟🍔🔫🇺🇲✈️
+tagline: Need text for your tagline :)
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://billmote.github.io/links/me.jpg
+Image_URL: https://scramblersgolf.github.io/ceo/Scramblers_icon-01.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://billmote.github.io/links/background.png
+Cover_Image: https://scramblersgolf.github.io/ceo/background.png
 
 # SOCIAL MEDIA
 links:
@@ -17,7 +17,7 @@ links:
     
     # CONTACT
   - Name: vCard
-    URL: https://billmote.github.io/links/BillMote.vcf
+    URL: https://scramblersgolf.github.io/links/Shawn.vcf
     Color: '#3b5998'
     Icon-Class: fa-solid fa-address-card
 
@@ -36,29 +36,17 @@ links:
 
     # EMAIL
   - Name: Scramblers
-    URL: 'mailto:bill@scramblersgolf.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-  - Name: Downrange Golf
-    URL: 'mailto:bill@downrangegolfllc.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-  - Name: Gmail
-    URL: 'mailto:bill.mote@gmail.com'
+    URL: 'mailto:shawn@scramblersgolf.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
     # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: bmote
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+  # - Name: LinkedIn
+  #   URL: https://www.linkedin.com/in
+  #   Username: bmote
+  #   Color: '#2867B2'
+  #   Icon-Class: fab fa-linkedin-in
 
     # FACEBOOK
   # - Name: Facebook
